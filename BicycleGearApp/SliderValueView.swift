@@ -10,10 +10,6 @@
  - upon init, value and slider position are in agreement
  - you can set the value
  - when the slider slides, the value label changes and the changing value is emmitted
- 
- 
- 
- 
  */
 
 import UIKit
